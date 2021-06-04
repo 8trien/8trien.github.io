@@ -13,7 +13,6 @@
 <meta name="dc.rights" content="United Nations © Copyright 2020">
 <meta property="og:title" content="Welcome to the United Nations">
 <meta property="og:url" content="http://www.un.org">
-<meta property="og:image" content="https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_960_720.jpg">
 <link rel="stylesheet" href="https://www.un.org/en/events/global-assets/bootstrap-3.3.5-dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://www.un.org/en/events/global-assets/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
