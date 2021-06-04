@@ -197,23 +197,7 @@
     type="text/javascript" charset="UTF-8" data-domain-script="c55f3595-a2cb-4223-8b5b-3c8521739ef7"></script>
     <script type="text/javascript">
     function OptanonWrapper() { }
-    </script><!-- OneTrust Cookies Consent Notice end --><!-- Google Tag Manager -->
-<script>
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WCJ67T');
-</script>
-<!-- End Google Tag Manager -->
-<meta name="WT.sp" content="USA" />
-<meta property="og:image" content="https://www.britishcouncil.us/profiles/solas2/themes/solas_ui/images/desktop/britishcouncil_indigo_logo.jpg" />
-<link rel="shortcut icon" href="https://www.britishcouncil.us/profiles/solas2/themes/solas_ui/favicon.ico" type="image/vnd.microsoft.icon" />
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "WebSite",
-  "url": "https://www.britishcouncil.us",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://www.britishcouncil.us/search?search_api_views_fulltext={search_term_string}",
-    "query-input": "required name=search_term_string"
+
   }
 }
 </script>
