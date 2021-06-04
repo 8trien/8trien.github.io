@@ -31,7 +31,6 @@
 
 <body style="">
 <div id="full-screen">   <img id="bg-img" class="bg img-responsive" src="https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_960_720.jpg" alt="Peacekeepers from the UN Mission in Mali conduct street patrols on election day in Gao, (2018). Photo MINUSMA/Marco Dormino."> 
-  <img id="bg-img-mobile" class="img-responsive" src=https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_960_720.jpg" alt="Peacekeepers from the UN Mission in Mali conduct street patrols on election day in Gao, (2018). Photo MINUSMA/Marco Dormino.">
   <div class="top-right-question animated16 fadeInUpBig" aria-hidden="true"></div>
   <div class="top-right-question-mobile more animated16 fadeInUpBig" aria-hidden="true"></div>
   <div class="bottom-right-c animated16 fadeInDownBig" aria-hidden="true"></div>
